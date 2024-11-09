@@ -1,2 +1,2 @@
 # opencode
-an easy opencode file
+an easy opencode file/
